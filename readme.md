@@ -15,4 +15,8 @@ this is a pterodactyl client area focusing on simpilicity
 - then configure settings.json
 - finally run the command `node .`
 
+## Support
+
+Discord Link - `Coming Soon`
+
 ### 🚧 the dashboard is under development. and not ready for production
